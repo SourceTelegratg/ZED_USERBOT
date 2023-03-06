@@ -3,10 +3,10 @@
 # Credits: @mrismanaziz || https://github.com/mrismanaziz
 # Zed - UserBot
 # Copyright (c) 2022 ZED_USERBOT
-# Credits: @ZedThon || https://github.com/ZedThon
+# Credits: @ALRADTHEN || https://github.com/Telegratg
 #
-# This file is a part of < https://github.com/ZedThon/ZED_USERBOT/ >
-# t.me/ZedThon & t.me/zzzzl1l
+# This file is a part of < https://github.com/Telegratg/ZED_USERBOT/ >
+# t.me/ALRADTHEN & t.me/GEORGE_HIMO
 
 import os
 from secrets import choice
