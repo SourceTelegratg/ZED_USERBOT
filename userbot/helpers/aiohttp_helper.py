@@ -1,5 +1,5 @@
 # ZED SOURCE
-# ARABIC USERBOT - BY: @zlzzl77
+# ARABIC USERBOT - BY: @app_telegratg
 
 import aiohttp
 
