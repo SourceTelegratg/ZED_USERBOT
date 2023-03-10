@@ -1,5 +1,5 @@
 #  ZED - THON
-#  TELE - @ZedThon
+#  TELE - @ALRADTHEN
 
 import time
 from datetime import datetime
@@ -7,11 +7,11 @@ from userbot.Config import Config
 from userbot.plugins import mention
 
 # zed
-K = "https://t.me/ZedThon"
+K = "https://t.me/ALRADTHEN"
 D = "** ⌔∮ مطور بوت زد ثـون**"
 
 OWNER_ID = Config.OWNER_ID
-ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ZedThon"
+ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ALRADTHEN"
 
 # for OWNER_ID
 OId = Config.OWNER_ID
@@ -45,8 +45,8 @@ asst_p = "https://telegra.ph/file/5adc05c0958432a117183.jpg"
 asst_c = "➥ **ASSISTANT IS:** `ONLINE`\n"
 asst_c += f"➥ **My Boss** : {Def} \n"
 asst_c += "➥ **Heroku Database** : `AWS - Working Properly`\n"
-asst_c += "➥ **Copyright** : By [𝙕𝞝𝘿𝙏𝙃𝙊𝙉](https://github.com/Zedthon)\n"
-asst_c += "[Assistant By ](https://t.me/ZedThon)"
+asst_c += "➥ **Copyright** : By [𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫](https://github.com/Telegratg)\n"
+asst_c += "[Assistant By ](https://t.me/ALRADTHEN)"
 
 # for ping
 def get_readable_time(seconds: int) -> str:
