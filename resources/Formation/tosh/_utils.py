@@ -1,5 +1,5 @@
 #    ZED - USERBOT
-#    ZelZal - @zzzzl1l
+#    ZelZal - @GEORGE_HIMO
 
 import asyncio
 import os
