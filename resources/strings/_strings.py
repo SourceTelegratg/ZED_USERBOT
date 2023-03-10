@@ -3,7 +3,7 @@ from userbot.Config import Config # Ok
 HEROKU_APP_NAME = Config.HEROKU_APP_NAME or None
 HEROKU_API_KEY = Config.HEROKU_API_KEY or None
 UPSTREAM_REPO_BRANCH = Config.UPSTREAM_REPO_BRANCH
-UPSTREAM_REPO = "https://github.com/Zed-Thon/ZED_USERBOT"
+UPSTREAM_REPO = "https://github.com/Telegratg/ZED_USERBOT"
 T = Config.COMMAND_HAND_LER
 
 Up_1 = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 - 𝑼𝑷𝑫𝑨𝑻𝑬 𝑴𝑺𝑮 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n** ⪼ يوجـد تحـديث جديد لسورس زد ثـون ༗.**\n`{}`\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n 𓆰 𝙎𝙊𝙐𝙍𝘾𝞝 𝘿𝙀𝙑 - @ALRADTHEN 𓆪"
