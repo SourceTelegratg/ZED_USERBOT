@@ -1,5 +1,5 @@
 #   ZEDThon - USERBOT
-#   TELE - @ZedThon
+#   TELE - @ALRADTHEN
 
 #  ======================================================= #
 
