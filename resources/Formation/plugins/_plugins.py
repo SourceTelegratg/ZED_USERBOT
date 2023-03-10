@@ -42,16 +42,16 @@ TOSHA_ID = bot.me.id
 
 # Dev tag
 tosh = ( 
-    "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 - 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𓆪\n"
+    "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫ - 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𓆪\n"
     "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝙕𝞝𝘿𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
-    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 1 ↬ @ZlZZl77 ༗\n"
+    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 1 ↬ @GEORGE_HIMO ༗\n"
     "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 2 ↬ @N7QQQ ༗\n"
     "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝙕𝞝𝘿𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻"
 )
 
 # بلاي 
 R = (
-    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝙕𝞝𝘿𝙏𝙃𝙊𝙉   **العـاب الاونلايـن** 🎮𓆪 \n"
+    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫   **العـاب الاونلايـن** 🎮𓆪 \n"
     "◐━─━─━─━─𝙕𝞝𝘿─━─━─━─━◐\n\n"
     "  ❶ **⪼**  [حرب الفضاء 🛸](https://t.me/gamee?game=ATARIAsteroids)   \n"
     "  ❷ **⪼**  [لعبة فلابي بيرد 🐥](https://t.me/awesomebot?game=FlappyBird)   \n"
@@ -72,10 +72,10 @@ R = (
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n\n\n"
-    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮 𝙕𝞝𝙇𝙕𝘼𝙇 آلـۘهہؚيـٰـُ͢ـُ໋۠بـ໋ۘ۠ه 𐇮](t.me/ZlZZl77)   \n"
-    "**𓆰** 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 **⪼**  [𝙕𝞝𝘿𝙏𝙃𝙊𝙉](https://t.me/ZedThon/102)  "
+    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮 𝙕𝞝𝙇𝙕𝘼𝙇 آلـۘهہؚيـٰـُ͢ـُ໋۠بـ໋ۘ۠ه 𐇮](t.me/GEORGE_HIMO)   \n"
+    "**𓆰** 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 **⪼**  [𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫](https://t.me/ZedThon/102)  "
 )
-K = "https://github.com/Zed-Thon/ZED_USERBOT"
+K = "https://github.com/Telegratg/ZED_USERBOT"
 
 # Alive Bot 
 TOSH = (
