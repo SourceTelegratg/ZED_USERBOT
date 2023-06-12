@@ -62,4 +62,4 @@ async def setbot():
 
 # End For zed bot Only
 # Owner ~ ZELZAL
-# Tele ~ @Zedthon
+# Tele ~ @ALRADTHEN
