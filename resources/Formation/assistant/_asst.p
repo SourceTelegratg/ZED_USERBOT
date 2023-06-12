@@ -8,7 +8,7 @@ from userbot.plugins import mention
 
 # zed
 K = "https://t.me/ALRADTHEN"
-D = "** ⌔∮ مطور بوت زد ثـون**"
+D = "** ⌔∮ مطور بوت الراد ثـون**"
 
 OWNER_ID = Config.OWNER_ID
 ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ALRADTHEN"
