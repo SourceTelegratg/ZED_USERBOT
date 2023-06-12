@@ -45,7 +45,7 @@ asst_p = "https://telegra.ph/file/5adc05c0958432a117183.jpg"
 asst_c = "➥ **ASSISTANT IS:** `ONLINE`\n"
 asst_c += f"➥ **My Boss** : {Def} \n"
 asst_c += "➥ **Heroku Database** : `AWS - Working Properly`\n"
-asst_c += "➥ **Copyright** : By [𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫](https://github.com/Telegratg)\n"
+asst_c += "➥ **Copyright** : By [𝘼𝙇𝙍𝘼𝘿𝙏𝙃𝙀𝙉 ⩫](https://github.com/SourceTelegratg)\n"
 asst_c += "[Assistant By ](https://t.me/ALRADTHEN)"
 
 # for ping
