@@ -1,8 +1,8 @@
 # Zed - UserBot
 # Copyright (c) 2022 ZED_USERBOT
-# Credits: @ALRADTHEN || https://github.com/ZedThon
+# Credits: @ALRADTHEN || https://github.com/SourceTelegratg
 #
-# This file is a part of < https://github.com/Telegratg/ZED_USERBOT/ >
+# This file is a part of < https://github.com/SourceTelegratg/ZED_USERBOT/ >
 # t.me/ALRADTHEN & t.me/GEORGE_HIMO
 
 
